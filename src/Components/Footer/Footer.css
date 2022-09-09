@@ -1,0 +1,75 @@
+.color{
+    background-color: #0B1315;
+    /* overflow-x: hidden; */
+}
+.linksi {
+    text-decoration: none;
+    color: #fd562a;
+    border: 1px solid orangered;
+    border-radius: 5px;
+}
+.icons-loc{
+    color: #EC792D;
+}
+.icons-lo{
+    color: #ffffff;
+    background-color: rgb(0, 128, 240);
+    width: 30px;
+    height: 30px;
+    padding: 2px;
+    border-radius: 100px;
+}
+.icons-tw{
+    color: #ffffff;
+    background-color: #1B93DB;
+    width: 30px;
+    height: 30px;
+    padding: 2px;
+    border-radius: 100px;
+
+}
+.icons-ln{
+    color: #ffffff;
+    background-color: #CB2D63;
+    width: 30px;
+    height: 30px;
+    padding: 2px;
+    border-radius: 100px;
+}
+.icons-lr{
+    color: #ffffff;
+    background-color:#50873D;
+    width: 30px;
+    height: 30px;
+    padding: 2px;
+    border-radius: 100px;
+}
+.icons-go{
+    color: #ffffff;
+    background-color: #C84535;
+    width: 30px;
+    height: 30px;
+    padding: 2px;
+    border-radius: 100px;
+}
+.icons-ld{
+    color: #ffffff;
+    background-color:  #016DA5;
+    width: 30px;
+    height: 30px;
+    padding: 2px;
+    border-radius: 100px;
+}
+/* .tes{
+    letter-spacing: 3px;
+} */
+
+a{
+    text-decoration: none;
+}
+.icoo{ width: 90px;
+height: 90px;
+padding: 2px;
+border-radius: 100px;
+color:  #EC792D;
+}

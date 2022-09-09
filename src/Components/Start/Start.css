@@ -1,0 +1,26 @@
+.bg-col{
+    background-color:#111D22;
+    overflow-x: hidden;
+}
+.star{
+    color: #EC792D;
+    width: 2%;
+    height: 2%;
+}
+.str{
+    flex-direction: row !important;
+}
+.letter{
+letter-spacing: 5px;
+color: #EC792D;
+}
+.bor{
+    border-bottom: 2px slod  #EC792D;
+}
+.lett{
+    letter-spacing: 1px;
+}
+.hr{
+    color: #EC792D;
+    width: 10%;
+}

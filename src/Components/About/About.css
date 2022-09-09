@@ -1,0 +1,47 @@
+.font{
+    font-family: 'Nunito Sans', sans-serif;
+    display: inline-block;
+    line-height: 30px;
+    letter-spacing: 1px;
+    text-align: justify;
+
+}
+.pic{
+    width: 100%;
+    height: 50%;
+}
+.txxt{
+    color: #EC792D;
+    letter-spacing: 2px;
+}
+.colo{
+    color: white ;
+    background-color: #EC792D;
+}
+.colo:hover{
+    background-color:  #EC792D;
+    color: white ;
+
+}
+.back{
+    background-color: #111D22;
+}
+.swpier-button-prev:after{
+    /* font-size: small; */
+    color: #EC792D !important;
+}
+.swiper-button-prev:after, .swiper-rtl .swiper-button-next:after {
+    color: #EC792D;
+    font-size: medium;
+    font-weight: bold !important;
+
+}
+    .swiper-button-next:after, .swiper-rtl .swiper-button-prev:after {
+        content: 'next';
+    
+
+            color: #EC792D;
+        font-size: medium;
+            font-weight: bold !important;
+    
+    }

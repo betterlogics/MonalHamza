@@ -1,0 +1,42 @@
+.background{
+    background-color: #0B1315;
+    /* padding-bottom: 100px; */
+
+    /* background-image: url(../Assets/background.png); background-size: cover; */
+}
+.texxt{
+    color: #EC792D  ;
+    /* padding-top: 100px 100px ; */
+}
+.vide{
+    width: 100%;
+    height: 100% !important;
+    position: sticky;
+    top: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.2);
+    backdrop-filter: blur(8px);
+}
+.icondiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    /* height: 50% !important; */
+    height: 100% !important;
+    position: absolute;
+    top: -150 !important;
+}
+.icoon{
+
+    width: 70px;
+    height: 70px;
+    /* padding: 10px; */
+    color: #EC792D;
+}
+.bto{
+    border: 0;
+    background: transparent;
+}

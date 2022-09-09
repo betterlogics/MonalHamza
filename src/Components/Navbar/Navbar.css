@@ -1,0 +1,36 @@
+.imgelogo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 35px 10px 0px 10px;
+    background: #0b1315;
+}
+.imge{
+    height: 98px;
+    width: 299px;
+}
+.nave{
+    background: #0b1315;
+    /* color: white; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 600;
+    font-size: 17PX; 
+    padding: 0px 9px 11px 9px;
+}
+.hovorg:hover{
+    color: #ED792E !important;
+    text-decoration: underline #ED792E ;
+}
+.dropi{
+    background: #0b1315 !important;
+    border-bottom: 2px solid white !important;
+    color: white !important;
+}
+.dropi:hover{
+    color: #ED792E !important;
+}
+.go{
+    background-color: #0b1315;
+}
